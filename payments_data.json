@@ -1,0 +1,16 @@
+[
+    {
+        "amount_try": 50000,
+        "exchange_rate": 876543,
+        "amount_usd": 987654,
+        "amount_iqd": 9876,
+        "timestamp": "2024-08-01 04:22:48"
+    },
+    {
+        "amount_try": 76543,
+        "exchange_rate": 87654,
+        "amount_usd": 9876,
+        "amount_iqd": 123456,
+        "timestamp": "2024-08-01 04:33:02"
+    }
+]
